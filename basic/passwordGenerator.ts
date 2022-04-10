@@ -10,4 +10,4 @@ function makePassword(maxLengthPass: any) {
   }
   return generatedPassword;
 }
-console.log(makePassword(24));
+console.log(makePassword(25));
